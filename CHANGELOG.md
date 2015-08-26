@@ -17,6 +17,7 @@ Changelog
   * channel-group
   * encapsulation dot1q
   * mtu
+  * speed
   * switchport trunk allowed and native vlans
   * vrf member
 * Move misc READMEs into /docs
